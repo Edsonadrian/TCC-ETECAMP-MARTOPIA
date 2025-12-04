@@ -14,7 +14,9 @@ Com o objetivo de reduzir esse problema, o Projeto Martopia foi desenvolvido com
 ## Equipe 
 
 Giulia da Cruz Favaro - Front-end
+
 Edson Adrian Paxi Soto - Back-end 
+
 Clara Mortarelo da Cunha - Design  
 
 
