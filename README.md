@@ -19,6 +19,8 @@ Edson Adrian Paxi Soto - Back-end
 
 Clara Mortarelo da Cunha - Design  
 
+Orientadores: Thaynara Andrade e Barbara Porfirio
+
 
 ## Tecnologias Utilizadas 
 
